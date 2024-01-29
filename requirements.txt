@@ -1,0 +1,6 @@
+simplejson
+plyer
+Pillow
+opencv-python
+pypiwin32; platform_system == "Windows"
+wmi; platform_system == "Windows"
