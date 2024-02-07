@@ -57,6 +57,10 @@ BackDoorSim is developed for educational purposes only. The creators of BackDoor
 ## **DepNot: RansomwareSim**
 If you are interested in tools like BackdoorSim, be sure to check out my recently released **[RansomwareSim](https://denizhalil.com/2023/12/30/ransomware-prevention-education/)** tool
 
+## **BackdoorSim: An Educational into Remote Administration Tools**
+If you want to read our article about [Backdoor](https://denizhalil.com/2024/01/29/educational-remote-administration-tool-backdoorsim/)
+
+
 ## **Contributing**
 Contributions, suggestions, and feedback are welcome. Please create an issue or pull request for any contributions.
 1. Fork the repository.
